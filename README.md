@@ -38,10 +38,10 @@ This project uses the Titanic dataset from [Kaggle's Titanic Competition](https:
 
 📈 Next Steps
 
-1)Add feature engineering (e.g., extract titles from names)
-2)Try other models (Logistic Regression, XGBoost)
-3)Tune hyperparameters with GridSearchCV
-4)Use cross-validation for better evaluation
+- Add feature engineering (e.g., extract titles from names)
+- Try other models (Logistic Regression, XGBoost)
+- Tune hyperparameters with GridSearchCV
+- Use cross-validation for better evaluation
 
 🧠 Author
 Maintained by: Palli Pardha Saradhi Charan
