@@ -44,6 +44,6 @@ This project uses the Titanic dataset from [Kaggle's Titanic Competition](https:
 - Use cross-validation for better evaluation
 
 🧠 Author
-Maintained by: Palli Pardha Saradhi Charan
-GitHub: pardhu1502
+- Maintained by: Palli Pardha Saradhi Charan
+- GitHub: pardhu1502
 
